@@ -1,0 +1,19 @@
+{
+  "name": "abv-bc-session2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celoka/abv-bc-session2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celoka/abv-bc-session2/issues"
+  },
+  "homepage": "https://github.com/Celoka/abv-bc-session2#readme"
+}
